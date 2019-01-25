@@ -7,6 +7,14 @@
 	<packaging>jar</packaging>
 
 	<name>SpringBootCRUDApplicationExample</name>
+	
+   <!-- <repositories>
+    <repository>
+      <id>Maven3</id>
+      <name>maven repo</name>
+      <url>https://mvnrepository.com/</url>
+     </repository>
+    </repositories> -->
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
